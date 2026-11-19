@@ -1,3 +1,10 @@
-A readme tells you about the repository/project.  This one is a simple one that will help you learn about GitHub.
+A README tells you about the repository/project. 
 
-The file "main.py" should have a print statement added for each contributor.  
+Start off by creating your own branch titled after your username - This is where your work will go.
+
+In the README.md, add your username below into the table
+
+Username | Role |
+--- | --- |
+astem03 | Moderator, GitHub Manager | 
+username | roles |
